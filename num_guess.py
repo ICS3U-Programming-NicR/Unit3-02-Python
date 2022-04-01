@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-# Created by: Mr. Coxall
-# Created on: Sep 2019
-# This program checks if there is over 30 students
+# Created by: Nicolas Riscalas
+# Created on: March 29 2022
+# Game for random number
 
 
 import random
